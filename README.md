@@ -11,4 +11,7 @@ This repository contains code and configuration files for Google Cloud Data Anal
 4. **ETL Process**: Extract, Transform, Load process implemented to handle data from raw upload to processed state.
 5. **Reporting**: Summary views and dashboards in Looker Studio for key metrics, with filtering and drill-down capabilities.
 
+ 
+ ** Dataset Link**: https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
 
